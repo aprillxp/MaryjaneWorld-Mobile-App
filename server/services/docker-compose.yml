@@ -1,0 +1,18 @@
+services:
+  orchestrator:
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+  services-app:
+    build: ./services/app
+    ports:
+      - "8002:4002"
+    environment:
+      - "JWT_SECRET=${JWT_SECRET}"
+      - "NODE_ENV=production"
+  services-users:
+    build: ./services/users
+    ports:
+      - "8001:4001"
+    environment:
+      - "MONGO_URI=${MONGO_URI}"

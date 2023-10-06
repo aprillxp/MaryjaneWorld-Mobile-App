@@ -1,0 +1,168 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Elemental",
+      "slug": "default",
+      "synopsis": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "rating": 7.8,
+      "genreId": 5,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Meg 2: The Trench",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "synopsis": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+      "rating": 6.9,
+      "genreId": 2,
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "title": "The Flash",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "synopsis": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to.",
+      "rating": 6.9,
+      "genreId": 3,
+      "authorId": 3
+    },
+    {
+      "id": 4,
+      "title": "Cobweb",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
+      "synopsis": "Eight year old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall—one that his parents insist is all in his imagination. As Peter's fear intensifies, he believes that his parents could be hiding a terrible, dangerous secret and questions their trust.",
+      "rating": 6.8,
+      "genreId": 4,
+      "authorId": 4
+    },
+    {
+      "id": 5,
+      "title": "Barbie",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "synopsis": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "rating": 7.4,
+      "genreId": 5,
+      "authorId": 5
+    },
+    {
+      "id": 6,
+      "title": "Transformer : Rise of the beast",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "synopsis": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+      "rating": 7.5,
+      "genreId": 3,
+      "authorId": 6
+    },
+    {
+      "id": 7,
+      "title": "The Flood",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/mvjqqklMpHwOxc40rn7dMhGT0Fc.jpg",
+      "synopsis": "A horde of giant hungry alligators is unleashed on a group of in-transit prisoners and their guards after a massive hurricane floods Louisiana.",
+      "rating": 6,
+      "genreId": 1,
+      "authorId": 7
+    },
+    {
+      "id": 8,
+      "title": "No Hard Feelings",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+      "synopsis": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+      "rating": 7.1,
+      "genreId": 3,
+      "authorId": 8
+    },
+    {
+      "id": 9,
+      "title": "Hidden Strike",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",
+      "synopsis": "Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.",
+      "rating": 7.1,
+      "genreId": 3,
+      "authorId": 9
+    },
+    {
+      "id": 10,
+      "title": "Insidious: The Red Door",
+      "slug": "default",
+      "trailerUrl": "",
+      "imgUrl": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "synopsis": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "rating": 7.1,
+      "genreId": 1,
+      "authorId": 10
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Horror"
+    },
+    {
+      "id": 2,
+      "name": "Sci-fi"
+    },
+    {
+      "id": 3,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Family"
+    },
+    {
+      "id": 5,
+      "name": "Comedy"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Rowan Atkinson",
+      "profilePict": "https://img.huffingtonpost.com/asset/5ff3371b260000ae2b7a3827.jpeg?cache=AfBaoaRwUB&ops=scalefit_630_noupscale"
+    },
+    {
+      "id": 2,
+      "movieId": 2,
+      "name": "Billie Eilish",
+      "profilePict": "https://www.refinery29.com/images/9305310.jpg?crop=40:21"
+    },
+    {
+      "id": 3,
+      "movieId": 3,
+      "name": "Peter Parker",
+      "profilePict": "https://4.bp.blogspot.com/_5Z2H5qZpGcI/Spj7XtdPeVI/AAAAAAAAAIA/UK2t4_crJJU/s320/Peter+Parker.JPG"
+    },
+    {
+      "id": 4,
+      "movieId": 4,
+      "name": "Mary Jane Watson",
+      "profilePict": "https://vignette.wikia.nocookie.net/marvelcomicsfanon/images/a/ab/0e2d232c17f502e16c6d0f9a9d6fc11e.jpg/revision/latest?cb=20190111073737"
+    },
+    {
+      "id": 5,
+      "movieId": 5,
+      "name": "Harry Osborn",
+      "profilePict": "https://s-media-cache-ak0.pinimg.com/736x/ca/64/03/ca6403c759052892fdc0996309fbdf5f.jpg"
+    }
+  ]
+}

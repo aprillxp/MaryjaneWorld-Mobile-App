@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "name": "Rowan Atkinson",
+    "profilePict": "https://img.huffingtonpost.com/asset/5ff3371b260000ae2b7a3827.jpeg?cache=AfBaoaRwUB&ops=scalefit_630_noupscale"
+  },
+  {
+    "id": 2,
+    "movieId": 2,
+    "name": "Billie Eilish",
+    "profilePict": "https://www.refinery29.com/images/9305310.jpg?crop=40:21"
+  },
+  {
+    "id": 3,
+    "movieId": 3,
+    "name": "Peter Parker",
+    "profilePict": "https://4.bp.blogspot.com/_5Z2H5qZpGcI/Spj7XtdPeVI/AAAAAAAAAIA/UK2t4_crJJU/s320/Peter+Parker.JPG"
+  },
+  {
+    "id": 4,
+    "movieId": 4,
+    "name": "Mary Jane Watson",
+    "profilePict": "https://vignette.wikia.nocookie.net/marvelcomicsfanon/images/a/ab/0e2d232c17f502e16c6d0f9a9d6fc11e.jpg/revision/latest?cb=20190111073737"
+  },
+  {
+    "id": 5,
+    "movieId": 5,
+    "name": "Harry Osborn",
+    "profilePict": "https://s-media-cache-ak0.pinimg.com/736x/ca/64/03/ca6403c759052892fdc0996309fbdf5f.jpg"
+  }
+]
